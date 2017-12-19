@@ -1,2 +1,2 @@
 # wowcharacternames
-RNN generations of World of Warcraft character names
+RNN generated World of Warcraft character names
