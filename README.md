@@ -1,14 +1,15 @@
 # wowcharacternames
 RNN generated World of Warcraft character names
 
-**If you just want the generated names, they're in names.txt, names2.txt, etc.**
+**If you just want the generated names, they're in new_names.json, new_names2.json etc.**
 
-The json files (names.json, names2.json) are the same names, sorted alphabetically. You can open these in a text editor.
+The names are sorted alphabetically. You can open these files in a text editor (or just in the browser).
 
 
-To train the RNN:
+To train an RNN to do this:
  - download and extract this repo
  - copy rnn.py and text_handler.py from my worldofwarcraft project to the directory you placed the above
+ - pip install any missing dependencies
  - run python rnn.py to train (adjust params as needed, see below)
 
 Suggested training params:
