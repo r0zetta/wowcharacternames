@@ -1,8 +1,9 @@
 # wowcharacternames
 RNN generated World of Warcraft character names
 
-**If you just want the generated names, they're in names.txt, names2.txt, etc**
-The json files (names.json, names2.json) are just easier to use programitically, but they're also sorted alphabetically. You can open these in a text editor.
+**If you just want the generated names, they're in names.txt, names2.txt, etc.**
+
+The json files (names.json, names2.json) are the same names, sorted alphabetically. You can open these in a text editor.
 
 
 To train the RNN:
